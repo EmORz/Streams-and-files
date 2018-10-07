@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Streams\WritingToAFile\bin\Debug\netcoreapp2.0\WritingToAFile.deps.json
+C:\Users\User\source\repos\Streams\WritingToAFile\bin\Debug\netcoreapp2.0\WritingToAFile.runtimeconfig.json
+C:\Users\User\source\repos\Streams\WritingToAFile\bin\Debug\netcoreapp2.0\WritingToAFile.runtimeconfig.dev.json
+C:\Users\User\source\repos\Streams\WritingToAFile\bin\Debug\netcoreapp2.0\WritingToAFile.dll
+C:\Users\User\source\repos\Streams\WritingToAFile\bin\Debug\netcoreapp2.0\WritingToAFile.pdb
+C:\Users\User\source\repos\Streams\WritingToAFile\obj\Debug\netcoreapp2.0\WritingToAFile.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Streams\WritingToAFile\obj\Debug\netcoreapp2.0\WritingToAFile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Streams\WritingToAFile\obj\Debug\netcoreapp2.0\WritingToAFile.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Streams\WritingToAFile\obj\Debug\netcoreapp2.0\WritingToAFile.AssemblyInfo.cs
+C:\Users\User\source\repos\Streams\WritingToAFile\obj\Debug\netcoreapp2.0\WritingToAFile.dll
+C:\Users\User\source\repos\Streams\WritingToAFile\obj\Debug\netcoreapp2.0\WritingToAFile.pdb

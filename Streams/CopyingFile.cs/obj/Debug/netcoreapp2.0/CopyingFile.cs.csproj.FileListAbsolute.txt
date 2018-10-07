@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Streams\CopyingFile.cs\bin\Debug\netcoreapp2.0\CopyingFile.cs.deps.json
+C:\Users\User\source\repos\Streams\CopyingFile.cs\bin\Debug\netcoreapp2.0\CopyingFile.cs.runtimeconfig.json
+C:\Users\User\source\repos\Streams\CopyingFile.cs\bin\Debug\netcoreapp2.0\CopyingFile.cs.runtimeconfig.dev.json
+C:\Users\User\source\repos\Streams\CopyingFile.cs\bin\Debug\netcoreapp2.0\CopyingFile.cs.dll
+C:\Users\User\source\repos\Streams\CopyingFile.cs\bin\Debug\netcoreapp2.0\CopyingFile.cs.pdb
+C:\Users\User\source\repos\Streams\CopyingFile.cs\obj\Debug\netcoreapp2.0\CopyingFile.cs.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Streams\CopyingFile.cs\obj\Debug\netcoreapp2.0\CopyingFile.cs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Streams\CopyingFile.cs\obj\Debug\netcoreapp2.0\CopyingFile.cs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Streams\CopyingFile.cs\obj\Debug\netcoreapp2.0\CopyingFile.cs.AssemblyInfo.cs
+C:\Users\User\source\repos\Streams\CopyingFile.cs\obj\Debug\netcoreapp2.0\CopyingFile.cs.dll
+C:\Users\User\source\repos\Streams\CopyingFile.cs\obj\Debug\netcoreapp2.0\CopyingFile.cs.pdb

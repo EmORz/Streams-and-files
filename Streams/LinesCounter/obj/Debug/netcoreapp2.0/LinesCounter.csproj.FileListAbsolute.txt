@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Streams\LinesCounter\bin\Debug\netcoreapp2.0\LinesCounter.deps.json
+C:\Users\User\source\repos\Streams\LinesCounter\bin\Debug\netcoreapp2.0\LinesCounter.runtimeconfig.json
+C:\Users\User\source\repos\Streams\LinesCounter\bin\Debug\netcoreapp2.0\LinesCounter.runtimeconfig.dev.json
+C:\Users\User\source\repos\Streams\LinesCounter\bin\Debug\netcoreapp2.0\LinesCounter.dll
+C:\Users\User\source\repos\Streams\LinesCounter\bin\Debug\netcoreapp2.0\LinesCounter.pdb
+C:\Users\User\source\repos\Streams\LinesCounter\obj\Debug\netcoreapp2.0\LinesCounter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Streams\LinesCounter\obj\Debug\netcoreapp2.0\LinesCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Streams\LinesCounter\obj\Debug\netcoreapp2.0\LinesCounter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Streams\LinesCounter\obj\Debug\netcoreapp2.0\LinesCounter.AssemblyInfo.cs
+C:\Users\User\source\repos\Streams\LinesCounter\obj\Debug\netcoreapp2.0\LinesCounter.dll
+C:\Users\User\source\repos\Streams\LinesCounter\obj\Debug\netcoreapp2.0\LinesCounter.pdb
